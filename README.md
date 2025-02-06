@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- - Bachelor's degree : Azerbaijan State Oil and Industry University - [ASOIU](https://asoiu.edu.az)(https://www.google.com/url?sa=i&url=https%3A%2F%2Fasoiu.edu.az%2Fsingle_news%2F2192&psig=AOvVaw2fatYQlBYnTgtLQwG1AglK&ust=1738971489723000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLidsOGbsIsDFQAAAAAdAAAAABAJ) (2022 - 2026)
+ - [Bachelor's degree : Azerbaijan State Oil and Industry University - [ASOIU](https://asoiu.edu.az)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fasoiu.edu.az%2Fsingle_news%2F2192&psig=AOvVaw2fatYQlBYnTgtLQwG1AglK&ust=1738971489723000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLidsOGbsIsDFQAAAAAdAAAAABAJ) (2022 - 2026)
 
 ### 📚 Projects 📚
 * Click [here](https://github.com/Tural-Kazimov/Project1-DS) to view my first important project - Project1.hhru
