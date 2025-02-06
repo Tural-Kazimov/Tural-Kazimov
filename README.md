@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- - Bachelor's degree : Azerbaijan State Oil and Industry University - [ASOIU](https://asoiu.edu.az) <img src="https://asoiu.edu.az/upload/news/891593aa5331c0a07d8b7a7e7b1a95f7.png" width="80" height="60"> (2022 - 2026)
+ - Bachelor's degree : Azerbaijan State Oil and Industry University - [ASOIU](https://asoiu.edu.az) <img src="https://asoiu.edu.az/upload/news/891593aa5331c0a07d8b7a7e7b1a95f7.png" width="80" height="30"> (2022 - 2026)
 
 
 
