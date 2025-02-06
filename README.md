@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! 👋
+### Hello! 👋 
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
