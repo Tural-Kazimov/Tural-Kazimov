@@ -42,11 +42,10 @@ Here are some ideas to get you started:
 
 
 ### ⚡️ Currently ⚡️
-- 
-- 
-- 
-- 
+- I am engaged in self-development. studying new methods in the field of data.
+- Studying new methods in the field of data.
+- Study mathematics because it is interesting and develops the mind.
 
 ### 🙌🏻 Contact me
-- [Telegram]()
-- [Kaggle]()
+- [Telegram](https://t.me/kazim0v)
+- [Kaggle](https://www.kaggle.com/Tural-Kazimov)
