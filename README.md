@@ -10,7 +10,6 @@ I strive to create useful and interesting projects in the field of Data Science 
  - Bachelor's degree : Azerbaijan State Oil and Industry University - [ASOIU](https://asoiu.edu.az) <img src="https://asoiu.edu.az/upload/news/891593aa5331c0a07d8b7a7e7b1a95f7.png" width="30" height="10"> (2022 - 2026)
 
 
-
 ## My Projects 
 * Click [here](https://github.com/Tural-Kazimov/Project1-DS) to view my first important project - Project1.hhru
 
@@ -35,7 +34,6 @@ I strive to create useful and interesting projects in the field of Data Science 
 
 </div>
 
-
   - Skills:
     * **Analytical Thinking**
     * **Teamwork and Collaboration**
@@ -48,14 +46,13 @@ I strive to create useful and interesting projects in the field of Data Science 
 - Study mathematics because it is interesting and develops the mind.
 
 
-
 ## 📫 How to contact me:
 - 📧 Email: kazimov.tural2005@gmail.com
 - 💼 LinkedIn: [Ссылка на мой профиль](https://www.linkedin.com/in/tural-kazımov-8b1702302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFSaUe3N%2BTva36YPcG82sOw%3D%3D)
 - 💬 Telegram: [Ссылка на профиль](https://t.me/kazim0v)
 - 📊 Kaggle: [Ссылка на профиль](https://www.kaggle.com/turalkazmov)
 
-Don't forget to add an asterisk to my projects if you like them! 😊
+⭐️ Don't forget to add an asterisk to my projects if you like them! 😊
 
 ---
 
@@ -109,12 +106,10 @@ Don't forget to add an asterisk to my projects if you like them! 😊
 - Изучаю новые методы в области данных.
 - Изучаю математику, потому что это интересно и развивает ум.
 
-### 🙌🏻 Свяжись со мной
-- [Telegram]()
-- [Kaggle]()
-
 ## 📫 Как со мной связаться:
 - 📧 Email: kazimov.tural2005@gmail.com
-- 💼 LinkedIn: [Ссылка на мой профиль](https://linkedin.com/in/tural-kazimov)
+- 💼 LinkedIn: [Ссылка на мой профиль](https://www.linkedin.com/in/tural-kazımov-8b1702302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFSaUe3N%2BTva36YPcG82sOw%3D%3D)
+- 💬 Telegram: [Ссылка на профиль](https://t.me/kazim0v)
+- 📊 Kaggle: [Ссылка на профиль](https://www.kaggle.com/turalkazmov)
 
 ⭐️ Не забудь добавить «звёздочку» моим проектам, если они тебе понравились! 😊
