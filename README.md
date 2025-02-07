@@ -92,9 +92,9 @@ I strive to create useful and interesting projects in the field of Data Science 
 </div>
 
 - Skills: 
-    * **Analytical Thinking**
-    * **Teamwork and Collaboration**
-    * **Adaptability and Learning**
+    * **Аналитическое мышление**
+    * **Командная работа и сотрудничество**
+    * **Способность к адаптации и обучению**
 
 ## 📊 GitHub Статистика:
 
