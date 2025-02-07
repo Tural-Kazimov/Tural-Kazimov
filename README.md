@@ -111,5 +111,5 @@ I strive to create useful and interesting projects in the field of Data Science 
 - 💼 LinkedIn: [Ссылка на мой профиль](https://www.linkedin.com/in/tural-kazımov-8b1702302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFSaUe3N%2BTva36YPcG82sOw%3D%3D)
 - 💬 Telegram: [Ссылка на профиль](https://t.me/kazim0v)
 - 📊 Kaggle: [Ссылка на профиль](https://www.kaggle.com/turalkazmov)
-
+ 
 ⭐️ Не забудь добавить «звёздочку» моим проектам, если они тебе понравились! 😊
