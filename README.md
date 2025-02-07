@@ -1,6 +1,11 @@
 ### Hi there! 👋 
 
 ## About me in 30 seconds 
+
+My name is ** Tural Kazimov**!  
+I am a student studying **Computer Science** with a focus on **Data Analytics**.  
+I strive to create useful and interesting projects in the field of Data Science and data analysis.
+
 [Education]:
  - Bachelor's degree : Azerbaijan State Oil and Industry University - [ASOIU](https://asoiu.edu.az) <img src="https://asoiu.edu.az/upload/news/891593aa5331c0a07d8b7a7e7b1a95f7.png" width="30" height="10"> (2022 - 2026)
 
@@ -42,19 +47,25 @@
 - Studying new methods in the field of data.
 - Study mathematics because it is interesting and develops the mind.
 
-### 🙌🏻 Contact me
-- [Telegram](https://t.me/kazim0v)
-- [Kaggle](https://www.kaggle.com/turalkazmov)
+
+
+## 📫 How to contact me:
+- 📧 Email: kazimov.tural2005@gmail.com
+- 💼 LinkedIn: [Ссылка на мой профиль](https://www.linkedin.com/in/tural-kazımov-8b1702302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFSaUe3N%2BTva36YPcG82sOw%3D%3D)
+- 💬 Telegram: [Ссылка на профиль](https://t.me/kazim0v)
+- 📊 Kaggle: [Ссылка на профиль](https://www.kaggle.com/turalkazmov)
+
+Don't forget to add an asterisk to my projects if you like them! 😊
 
 ---
 
 ### Привет! 👋
 
+## Обо мне за 30 секунд 
 Меня зовут **Турал Казимов**!  
 Я студент, изучающий **Компьютерные науки** с фокусом на **Data Analytics**.  
 Стремлюсь к созданию полезных и интересных проектов в области Data Science и анализа данных.
 
-### ✨ Обо мне за 30 секунд ✨ 
 [Образование]:
   - Степень бакалавра : Азербайджанский Государственный Университет Нефти и Промышленности [АГУНП](https://asoiu.edu.az) <img src="https://asoiu.edu.az/upload/news/891593aa5331c0a07d8b7a7e7b1a95f7.png" width="30" height="10"> (2022 - 2026)
 
@@ -101,3 +112,9 @@
 ### 🙌🏻 Свяжись со мной
 - [Telegram]()
 - [Kaggle]()
+
+## 📫 Как со мной связаться:
+- 📧 Email: kazimov.tural2005@gmail.com
+- 💼 LinkedIn: [Ссылка на мой профиль](https://linkedin.com/in/tural-kazimov)
+
+⭐️ Не забудь добавить «звёздочку» моим проектам, если они тебе понравились! 😊
