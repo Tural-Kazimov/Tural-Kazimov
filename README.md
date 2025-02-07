@@ -2,11 +2,11 @@
 
 ## About me in 30 seconds 
 
-My name is ** Tural Kazimov**!  
+My name is **Tural Kazimov**!  
 I am a student studying **Computer Science** with a focus on **Data Analytics**.  
 I strive to create useful and interesting projects in the field of Data Science and data analysis.
 
-[Education]:
+**Education**:
  - Bachelor's degree : Azerbaijan State Oil and Industry University - [ASOIU](https://asoiu.edu.az) <img src="https://asoiu.edu.az/upload/news/891593aa5331c0a07d8b7a7e7b1a95f7.png" width="30" height="10"> (2022 - 2026)
 
 
@@ -63,7 +63,7 @@ I strive to create useful and interesting projects in the field of Data Science 
 Я студент, изучающий **Компьютерные науки** с фокусом на **Data Analytics**.  
 Стремлюсь к созданию полезных и интересных проектов в области Data Science и анализа данных.
 
-[Образование]:
+**Образование**:
   - Степень бакалавра : Азербайджанский Государственный Университет Нефти и Промышленности [АГУНП](https://asoiu.edu.az) <img src="https://asoiu.edu.az/upload/news/891593aa5331c0a07d8b7a7e7b1a95f7.png" width="30" height="10"> (2022 - 2026)
 
 ## Мои Проекты 
