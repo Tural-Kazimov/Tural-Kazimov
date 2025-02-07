@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/kazim0v)
-- [Kaggle](https://www.kaggle.com/Tural-Kazimov)
+- [Kaggle](https://www.kaggle.com/turalkazmov)
