@@ -3,7 +3,7 @@
 ## About me in 30 seconds 
 
 My name is **Tural Kazimov**!  
-I am a student studying **Computer Science** with a focus on **Data Science*.  
+I am a student studying **Computer Science** with a focus on **Data Science**.  
 I strive to create useful and interesting projects in the field of Data Science and data analysis.
 
 **Education**:
