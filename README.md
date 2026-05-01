@@ -7,8 +7,8 @@
 ---
 
 ## About
-I focus on **Data Science and Machine Learning**, building practical projects with real data.  
-Interested in model behavior, evaluation, and applied analytics.
+Focused on Data Science, Machine Learning, and Credit Risk Analytics through applied projects, banking model validation, and real-world data problem solving. Interested in predictive modeling, model evaluation, and business-focused analytics.
+
 
 ---
 
