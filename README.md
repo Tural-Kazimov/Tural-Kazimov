@@ -92,4 +92,4 @@ Focused on Data Science, Machine Learning, and Credit Risk Analytics through app
 - 💼 [LinkedIn](https://www.linkedin.com/in/tural-kazımov-8b1702302)  
 - 📊 [Kaggle](https://www.kaggle.com/turalkazmov)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tural-Kazimov&show_icons=true&theme=radical)
+
