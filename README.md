@@ -75,7 +75,7 @@ Focused on Data Science, Machine Learning, and Credit Risk Analytics through app
 
 ## Projects
 - 🔹 **[Project1-DS](https://github.com/Tural-Kazimov/Project1-DS)** — Data analysis & ML project
-- 🔹 **[CIFAR-10 CNN Model Comparison — CNN architectures & transfer learning with PyTorch](https://github.com/Tural-Kazimov/cifar10-cnn-model-comparison)** — Image classification using CNN (PyTorch)
+- 🔹 **[CIFAR-10 CNN Model Comparison](https://github.com/Tural-Kazimov/cifar10-cnn-model-comparison)** — CNN architectures & transfer learning with PyTorch
 ---
 
 ## Currently
