@@ -81,9 +81,9 @@ Focused on Data Science, Machine Learning, and Credit Risk Analytics through app
 ---
 
 ## Currently
-- Improving ML fundamentals  
-- Building portfolio projects  
-- Preparing for Data / ML internships  
+- Advancing applied Machine Learning, predictive analytics, and model evaluation
+- Building portfolio projects across Data Science, SQL, and deep learning
+- Preparing for Data Science / ML / Risk Analytics internships
 
 ---
 
