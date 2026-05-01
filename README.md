@@ -77,7 +77,7 @@ Focused on Data Science, Machine Learning, and Credit Risk Analytics through app
 - 🔹 **[customer-data-preprocessing](https://github.com/Tural-Kazimov/Project1-DS)** — Customer Data Analysis & Preprocessing
 - 🔹 **[CIFAR-10 CNN Model Comparison](https://github.com/Tural-Kazimov/cifar10-cnn-model-comparison)** — CNN architectures & transfer learning with PyTorch
 - 🔹 **[Bank customer churn prediction](https://github.com/Tural-Kazimov/bank-customer-churn-prediction)** - Data preprocessing, exploratory data analysis, model training and model evaluation.
-- 🔹 **[hh-postgres analyzer](https://github.com/Tural-Kazimov/hh-postgres-analyzer)** - Data cleaning, pattern discovery, feature engineering, and aggregation for enhanced analysis quality
+- 🔹 **[hh-job-market-sql-analysis](https://github.com/Tural-Kazimov/hh-postgres-analyzer)** - Data cleaning, pattern discovery, feature engineering, and aggregation for enhanced analysis quality
 ---
 
 ## Currently
@@ -90,7 +90,6 @@ Focused on Data Science, Machine Learning, and Credit Risk Analytics through app
 ## Contact
 - 📧 kazimov.tural2005@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tural-kazımov-8b1702302)  
-- 💬 [Telegram](https://t.me/kazim0v)  
 - 📊 [Kaggle](https://www.kaggle.com/turalkazmov)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tural-Kazimov&show_icons=true&theme=radical)
