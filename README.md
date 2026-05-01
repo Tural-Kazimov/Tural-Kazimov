@@ -2,7 +2,7 @@
 
 🎓 Computer Science student (Data Science)  
 📍 Baku, Azerbaijan  
-🚀 Aspiring Data Scientist / ML Engineer
+🚀 Data Scientist | ML Engineer | Credit Risk Analytics
 
 ---
 
